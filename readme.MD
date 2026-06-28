@@ -5,12 +5,12 @@ Implementação de um simulador de Máquina de Turing em Python, reconhecendo a 
 
 Equipe:
 
----
-Lucas Patrik Lopes dos Santos - 2021015036
-Salomão Marcioliver - 2020011954
-Silvestre Bentes Cardoso- 2019007752
-Jaiane Luana Sá Menezes - 2022004547
----
+
+|Lucas Patrik Lopes dos Santos - 2021015036|
+|Salomão Marcioliver - 2020011954|
+|Silvestre Bentes Cardoso- 2019007752|
+|Jaiane Luana Sá Menezes - 2022004547|
+
 
 
 ---

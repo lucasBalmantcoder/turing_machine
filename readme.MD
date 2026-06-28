@@ -1,7 +1,15 @@
 # Simulador de Máquina de Turing
 
-Trabalho prático da disciplina **Linguagens Formais e Autômatos (LFA)**.  
+Trabalho prático da disciplina **Teoria da computação**.  
 Implementação de um simulador de Máquina de Turing em Python, reconhecendo a linguagem **aⁿbⁿ**.
+
+Equipe:
+
+Lucas Patrik Lopes dos Santos - 2021015036
+Salomão Marcioliver - 2020011954
+Silvestre Bentes Cardoso- 2019007752
+Jaiane Luana Sá Menezes - 2022004547
+
 
 ---
 

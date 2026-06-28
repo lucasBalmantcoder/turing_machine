@@ -5,6 +5,16 @@ Implementação de um simulador de Máquina de Turing em Python, reconhecendo a 
 
 ---
 
+## ▶ Teste rápido no Google Colab
+
+Não é necessário instalar nada. Clique no botão abaixo para abrir e executar o simulador diretamente no navegador:
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s14jMLgSflYS5cvVJyd7N4kbURMFB3DR?hl=pt_BR#scrollTo=Q2uzqXiW5X3a)
+
+> No Colab, basta executar as células na ordem em que aparecem. Nenhuma configuração adicional é necessária.
+
+---
+
 ## Integrantes
 
 | # | Nome |
@@ -60,12 +70,19 @@ Exemplos de palavras **rejeitadas**: `aab`, `ba`, `aabb b`
 
 ## Como executar
 
-### Pré-requisitos
+### Opção 1 — Google Colab (sem instalação)
 
+Acesse o notebook pelo link abaixo e execute as células diretamente no navegador:
+
+🔗 [https://colab.research.google.com/drive/1s14jMLgSflYS5cvVJyd7N4kbURMFB3DR?hl=pt_BR#scrollTo=Q2uzqXiW5X3a](https://colab.research.google.com/drive/1s14jMLgSflYS5cvVJyd7N4kbURMFB3DR?hl=pt_BR#scrollTo=Q2uzqXiW5X3a)
+
+### Opção 2 — Localmente via VS Code
+
+**Pré-requisitos:**
 - Python 3.8 ou superior
 - Nenhuma biblioteca externa necessária
 
-### Passos
+**Passos:**
 
 1. Clone o repositório:
 ```bash
@@ -80,7 +97,7 @@ python maquina_de_turing.py
 
 ### Testando uma palavra específica
 
-Abra o arquivo `maquina_de_turing.py` no VS Code e altere a lista `casos_de_teste`, ou adicione ao final do arquivo:
+Abra o arquivo `maquina_de_turing.py` no VS Code (ou no Colab) e altere a lista `casos_de_teste`, ou adicione ao final do arquivo:
 
 ```python
 resultado = simulador.simular("aaabbb")
@@ -127,3 +144,11 @@ simulador-turing/
 ├── requirements.txt        # Dependências do projeto
 └── README.md               # Documentação
 ```
+
+---
+
+## Execução online
+
+Caso prefira não instalar nada, o simulador também está disponível para execução direta no Google Colab:
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1s14jMLgSflYS5cvVJyd7N4kbURMFB3DR?hl=pt_BR#scrollTo=Q2uzqXiW5X3a)

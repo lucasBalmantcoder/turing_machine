@@ -1,0 +1,6 @@
+# Simulador de Máquina de Turing – LFA
+# Nenhuma biblioteca externa é necessária.
+# O projeto utiliza apenas a biblioteca padrão do Python 3.
+
+# Versão mínima recomendada:
+# python>=3.8

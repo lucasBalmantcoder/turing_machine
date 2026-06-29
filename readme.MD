@@ -25,18 +25,6 @@ Não é necessário instalar nada. Clique no botão abaixo para abrir e executar
 
 > No Colab, basta executar as células na ordem em que aparecem. Nenhuma configuração adicional é necessária.
 
----
-
-## Integrantes
-
-| # | Nome |
-|---|------|
-| 1 | Pessoa 1 |
-| 2 | Pessoa 2 |
-| 3 | Pessoa 3 |
-| 4 | Pessoa 4 |
-
----
 
 ## Descrição
 
